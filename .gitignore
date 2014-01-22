@@ -2,6 +2,7 @@
 
 ### Project specific ###
 client-build
+bin/build.txt
 
 
 ### Linux ###
